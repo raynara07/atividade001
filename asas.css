@@ -1,0 +1,52 @@
+.container
+{
+    background-color: white;
+    background-position-x: center;
+    background-position: top;
+    background-position-y: top;
+    background-size: initial;
+}
+
+.col-6
+
+{   background-color: grey;
+    font-size: x-large;
+color:white;}
+
+.col
+
+{background-color: grey;
+    font-size: medium;
+color:white;
+}
+
+.cor
+{background-color: turquoise;}
+
+.titulo
+{
+    background-color: turquoise;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.subtitulo
+{
+    background-color: turquoise;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+}
+
+.colour
+{
+    text-align: center;
+    background-color: white;
+}
+
+.origem
+
+{
+    background-color: white;
+}
